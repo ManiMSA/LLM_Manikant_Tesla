@@ -1,6 +1,6 @@
 **Introduction**
 
-This project aims to build a Language Model (LM) capable of interacting with CSV data to derive insights using natural language input. The project utilizes OpenAI's GPT (Generative Pre-trained Transformer) models for both the OpenAI track and Mistral 7B models for the open-source track. The LM is designed to process natural language queries and generate appropriate responses in the form of graphs or tables based on the insights derived from the provided CSV data.
+This project aims to build a Language Model (LM) capable of interacting with CSV data to derive insights using natural language input. The project utilizes OpenAI's GPT (Generative Pre-trained Transformer) models for  the OpenAI track , whereas Mistral 7B models for the open-source track. The LM is designed to process natural language queries and generate appropriate responses in the form of graphs or tables based on the insights derived from the provided CSV data.
 
 **Components**
 
