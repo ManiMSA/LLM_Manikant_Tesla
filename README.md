@@ -8,7 +8,9 @@ This project aims to build a Language Model (LM) capable of interacting with CSV
 The codebase consists of Python scripts responsible for the following functionalities:
 Data preprocessing: Scripts to clean and preprocess the CSV data for compatibility with the LLM. Transform the CSV data into SQLite database.
 LLM run : Scripts to run and prompt engineer the GPT models for both the OpenAI track and Mistral 7B models.
-          Mistral7B.py - Mistral and OpenAI.ipynb - OpenAI.
+          
+          Mistral7B.py - Mistral 
+          OpenAI.ipynb - OpenAI.
 
 
   ii. Requirements
