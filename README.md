@@ -1,7 +1,9 @@
 **Introduction**
+
 This project aims to build a Language Model (LM) capable of interacting with CSV data to derive insights using natural language input. The project utilizes OpenAI's GPT (Generative Pre-trained Transformer) models for both the OpenAI track and Mistral 7B models for the open-source track. The LM is designed to process natural language queries and generate appropriate responses in the form of graphs or tables based on the insights derived from the provided CSV data.
 
 **Components**
+
   i. Code
 The codebase consists of Python scripts responsible for the following functionalities:
 Data preprocessing: Scripts to clean and preprocess the CSV data for compatibility with the LLM. Transform the CSV data into SQLite database.
@@ -15,6 +17,7 @@ The requirements.txt file lists all the dependencies required to run the code. U
 
 
 **Usage**
+
 To run the project, follow these steps:
 
 Clone the repository to your local machine.
